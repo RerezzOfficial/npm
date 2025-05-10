@@ -1,4 +1,4 @@
-# 🔰MOCULE API DECODE IM-REREZZ
+# 🔰MODULE API DECODE IM-REREZZ
 
 ### Semua endpoint menggunakan REST API dari:  
 ### 🔗 [https://www.decode.im-rerezz.xyz](https://www.decode.im-rerezz.xyz)
