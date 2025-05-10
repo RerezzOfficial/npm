@@ -1,9 +1,7 @@
-# 🔰 Multi Platform Downloader by Rerezz
+# 🔰MOCULE API DECODE IM-REREZZ
 
-Modul Node.js serbaguna untuk mendownload konten dari berbagai platform seperti **TikTok**, **YouTube (MP3/MP4)**, **Instagram**, **Facebook**, **CapCut**, **MediaFire**, **Google Drive**, hingga **GitHub Repo (ZIP)**.
-
-Semua endpoint menggunakan REST API dari:  
-🔗 [https://www.decode.im-rerezz.xyz](https://www.decode.im-rerezz.xyz)
+### Semua endpoint menggunakan REST API dari:  
+### 🔗 [https://www.decode.im-rerezz.xyz](https://www.decode.im-rerezz.xyz)
 
 ---
 
