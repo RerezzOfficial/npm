@@ -17,6 +17,7 @@ npm install axios
 npm install decode-imrerezz
 ```
 
+##    EXAMPLE CODE
 ```
 const {
     tiktokdl,
